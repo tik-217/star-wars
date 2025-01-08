@@ -10,7 +10,7 @@ export const Root = () => {
       <BtnBack />
       <Flex align={"center"} justify={"flex-start"} direction={"column"}>
         <Container mb={20}>
-          <MainTitle subtitle="Heroes and Words" />
+          <MainTitle subtitle="Heroes and Worlds" />
         </Container>
         <List listStyleType="none">
           <ListItem mb={30}>
